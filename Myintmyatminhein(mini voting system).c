@@ -21,12 +21,12 @@ void intro(){
                     votemember();
                     break;
 
-                }
-        }
-         else{
+                }   else{
         printf("wrong id or password, Try again");
         break;
     }
+        }
+
     }
 
 
